@@ -1,0 +1,16 @@
+MODULE6/
+├── README.md
+├── COMMANDS.md
+├── STRUCTURE.txt
+└── images/
+    ├── mergedlef_2.png
+    ├── mergedlef_3.png
+    ├── mergedlef.png
+    ├── OPENLANE.png
+    ├── synthesisreport.png
+    ├── picorv32a_synthesis.png
+    ├── picorv32a_stats.png
+    ├── picorv32a.png
+    ├── openSTA_report.png
+    ├── lessconfig_tcl.png
+    └── config_tcl(1).png
