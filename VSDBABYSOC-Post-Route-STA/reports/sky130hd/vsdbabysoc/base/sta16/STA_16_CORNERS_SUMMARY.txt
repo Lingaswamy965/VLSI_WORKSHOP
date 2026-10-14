@@ -1,0 +1,100 @@
+VSDBABYSOC POST-ROUTE STA — 16 LIBERTY CONDITIONS
+Parasitics: 6_final.spef
+Generated: Sat Oct 10 16:28:24 UTC 2026
+
+===== sta_ff_100C_1v65 =====
+worst slack max 7.24
+worst slack min 0.26
+tns max 0.00
+clk period_min = 3.76 fmax = 266.02
+
+===== sta_ff_100C_1v95 =====
+worst slack max 8.07
+worst slack min 0.20
+tns max 0.00
+clk period_min = 2.93 fmax = 341.26
+
+===== sta_ff_n40C_1v56 =====
+worst slack max 5.97
+worst slack min 0.30
+tns max 0.00
+clk period_min = 5.03 fmax = 198.81
+
+===== sta_ff_n40C_1v65 =====
+worst slack max 6.70
+worst slack min 0.26
+tns max 0.00
+clk period_min = 4.30 fmax = 232.55
+
+===== sta_ff_n40C_1v76 =====
+worst slack max 7.34
+worst slack min 0.23
+tns max 0.00
+clk period_min = 3.66 fmax = 273.27
+
+===== sta_ff_n40C_1v95 =====
+worst slack max 8.06
+worst slack min 0.20
+tns max 0.00
+clk period_min = 2.94 fmax = 339.58
+
+===== sta_ss_100C_1v40 =====
+worst slack max -3.27
+worst slack min 0.91
+tns max -427.07
+clk period_min = 14.27 fmax = 70.06
+
+===== sta_ss_100C_1v60 =====
+worst slack max 1.35
+worst slack min 0.65
+tns max 0.00
+clk period_min = 9.65 fmax = 103.65
+
+===== sta_ss_n40C_1v28 =====
+worst slack max -30.97
+worst slack min 1.79
+tns max -14927.87
+clk period_min = 41.97 fmax = 23.82
+
+===== sta_ss_n40C_1v35 =====
+worst slack max -17.18
+worst slack min 1.34
+tns max -7092.53
+clk period_min = 28.18 fmax = 35.49
+
+===== sta_ss_n40C_1v40 =====
+worst slack max -11.49
+worst slack min 1.12
+tns max -3828.66
+clk period_min = 22.49 fmax = 44.47
+
+===== sta_ss_n40C_1v44 =====
+worst slack max -8.18
+worst slack min 0.98
+tns max -2238.06
+clk period_min = 19.18 fmax = 52.15
+
+===== sta_ss_n40C_1v60 =====
+worst slack max -0.70
+worst slack min 0.66
+tns max -7.09
+clk period_min = 11.70 fmax = 85.49
+
+===== sta_ss_n40C_1v76 =====
+worst slack max 2.80
+worst slack min 0.50
+tns max 0.00
+clk period_min = 8.20 fmax = 121.91
+
+===== sta_tt_025C_1v80 =====
+worst slack max 6.23
+worst slack min 0.32
+tns max 0.00
+clk period_min = 4.77 fmax = 209.43
+
+===== sta_tt_100C_1v80 =====
+worst slack max 6.30
+worst slack min 0.32
+tns max 0.00
+clk period_min = 4.70 fmax = 212.98
+
