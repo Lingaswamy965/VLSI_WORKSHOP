@@ -1,8 +1,8 @@
-# MODULE 6 — OpenLane RTL-to-Physical Design Preparation: Setup, Configuration, LEF, Synthesis and STA
+# MODULE 1 — OpenLane RTL-to-Physical Design Preparation: Setup, Configuration, LEF, Synthesis and STA
 
 ## 1. Introduction
 
-Module 6 documents the OpenLane work performed for the **PicoRV32A** design using the **Sky130A** technology environment. The evidence covers the OpenLane environment, design configuration, technology LEF information, synthesis, static timing analysis, area/cell statistics and the overall RTL-to-GDSII flow.
+Module 1 documents the OpenLane work performed for the **PicoRV32A** design using the **Sky130A** technology environment. The evidence covers the OpenLane environment, design configuration, technology LEF information, synthesis, static timing analysis, area/cell statistics and the overall RTL-to-GDSII flow.
 
 The purpose of this module is to understand how a Verilog RTL design is prepared for physical implementation and how synthesis and timing information are obtained before the detailed physical-design stages documented in Module 7.
 
@@ -537,7 +537,7 @@ This README documents the supplied Module 6 evidence. It does not claim a final 
 
 # 23. Conclusion
 
-Module 6 establishes the foundation for physical design by showing the OpenLane environment, PicoRV32A configuration, Sky130A LEF information, synthesis, timing analysis and design statistics.
+Module 1 establishes the foundation for physical design by showing the OpenLane environment, PicoRV32A configuration, Sky130A LEF information, synthesis, timing analysis and design statistics.
 
-The next stage is Module 7, where the design moves into floorplanning, IO placement, PDN preparation and standard-cell placement.
+The next stage is Module 2, where the design moves into floorplanning, IO placement, PDN preparation and standard-cell placement.
 
