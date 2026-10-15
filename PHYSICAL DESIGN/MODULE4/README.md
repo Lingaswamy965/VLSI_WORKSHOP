@@ -1,4 +1,4 @@
-# Module 9: SKY130 VLSI Design — Synthesis, Floorplanning and Clock Timing Analysis
+# Module 4: SKY130 VLSI Design — Synthesis, Floorplanning and Clock Timing Analysis
 
 ## Introduction
 
