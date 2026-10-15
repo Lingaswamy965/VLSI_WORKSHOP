@@ -70,6 +70,3 @@ The 16-corner table records setup WNS as `+0.00 ns` for both TT rows. However, t
 
 The numerical values are transcribed from the supplied PDF. The graphs are generated from its 16-corner summary table; they are not fresh STA runs. The screenshot package does not necessarily include the synthesized netlist, SDC, timing libraries, or scripts required to reproduce the analysis.
 
-## Suggested Commit Message
-
-`Fix README table and document complete 16-corner STA results`
