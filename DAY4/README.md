@@ -1,8 +1,8 @@
-# Module 4 — GLS, Blocking vs Non-Blocking & Synthesis Simulation
+# DAY 4 — GLS, Blocking vs Non-Blocking & Synthesis Simulation
 
 ## 1. Module Overview
 
-Module 4 studies the relationship between **RTL coding style, simulation semantics and synthesized hardware**.
+DAY 4 studies the relationship between **RTL coding style, simulation semantics and synthesized hardware**.
 
 The experiments are especially useful because an RTL description can be syntactically legal and still fail to communicate the intended hardware clearly.
 
@@ -229,9 +229,9 @@ The important lesson is not to treat these as interchangeable syntax.
 
 ---
 
-## Module 4 Takeaway
+## DAY 4 Takeaway
 
-Module 4 develops awareness of the complete relationship:
+DAY 4 develops awareness of the complete relationship:
 
 ```text
 Coding Style
