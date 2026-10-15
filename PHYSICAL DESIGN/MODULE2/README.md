@@ -1,8 +1,8 @@
-# MODULE 7 — OpenLane Physical Design: Floorplanning, IO Placement, PDN and Standard-Cell Placement
+# MODULE 2 — OpenLane Physical Design: Floorplanning, IO Placement, PDN and Standard-Cell Placement
 
 ## 1. Introduction
 
-Module 7 continues the PicoRV32A OpenLane work from Module 6 and focuses on the physical implementation stages.
+Module 2 continues the PicoRV32A OpenLane work from Module 6 and focuses on the physical implementation stages.
 
 The supplied evidence covers:
 
@@ -703,15 +703,15 @@ DRC / LVS / Sign-off
 GDSII
 ```
 
-Module 6 establishes the synthesis/technology/timing foundation.
+Module 1 establishes the synthesis/technology/timing foundation.
 
-Module 7 continues with the physical implementation.
+Module 2 continues with the physical implementation.
 
 ---
 
 # 27. Evidence Integrity
 
-Only the supplied Module 7 screenshots are claimed as evidence here.
+Only the supplied Module 2 screenshots are claimed as evidence here.
 
 No final GDSII, SPEF, final routed DEF, DRC or LVS result is claimed unless separately provided.
 
@@ -719,7 +719,7 @@ No final GDSII, SPEF, final routed DEF, DRC or LVS result is claimed unless sepa
 
 # 28. Conclusion
 
-Module 7 demonstrates the transition from the synthesized PicoRV32A design into physical implementation.
+Module 2 demonstrates the transition from the synthesized PicoRV32A design into physical implementation.
 
 The work covers floorplan configuration, DEF representation, IO placement, physical IO cells, tap cells, PDN preparation and standard-cell placement.
 
@@ -741,4 +741,4 @@ Routing
 Sign-off
 ```
 
-The physical decisions made in Module 7 form the foundation for the later CTS, routing and sign-off stages.
+The physical decisions made in Module 2 form the foundation for the later CTS, routing and sign-off stages.
