@@ -1,8 +1,8 @@
-# Module 3 — Combinational & Sequential Optimization
+# DAY 3 — Combinational & Sequential Optimization
 
 ## 1. Module Overview
 
-Module 3 focuses on an important synthesis principle:
+DAY 3 focuses on an important synthesis principle:
 
 > **RTL syntax does not necessarily translate one-to-one into physical hardware.**
 
@@ -218,9 +218,9 @@ An optimization is useful only when the required behavior is preserved.
 
 ---
 
-## Module 3 Takeaway
+## DAY 3 Takeaway
 
-Module 3 develops a synthesis-oriented question:
+DAY 3 develops a synthesis-oriented question:
 
 > **Does every RTL construct contribute necessary hardware?**
 
