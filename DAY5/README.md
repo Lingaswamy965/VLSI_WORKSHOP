@@ -1,8 +1,8 @@
-# Module 5 — Optimization in Synthesis
+# DAY 5 — Optimization in Synthesis
 
 ## 1. Module Overview
 
-Module 5 is the most synthesis-oriented part of the workshop.
+DAY 5 is the most synthesis-oriented part of the workshop.
 
 The experiments investigate how conditional coding, completeness, generate constructs and structured arithmetic descriptions influence the inferred hardware.
 
@@ -374,7 +374,7 @@ Identify unintended hardware
 Improve RTL
 ```
 
-## Module 5 Takeaway
+## DAY 5 Takeaway
 
 The most important lesson is:
 
