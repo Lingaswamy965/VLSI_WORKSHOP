@@ -1,8 +1,8 @@
-# Module 2 — Sequential Logic & RTL Synthesis
+# DAY 2 — Sequential Logic & RTL Synthesis
 
 ## 1. Module Overview
 
-Module 2 moves from purely combinational logic toward **sequential hardware and synthesis**.
+DAY 2 moves from purely combinational logic toward **sequential hardware and synthesis**.
 
 The experiments study:
 
@@ -256,6 +256,6 @@ Synthesized Hardware
 - Arithmetic operators are converted into hardware.
 - Netlist inspection provides a structural view of synthesis.
 
-## Module 2 Takeaway
+## DAY 2 Takeaway
 
-Module 2 builds the bridge between **RTL descriptions and synthesized sequential/structural hardware**.
+DAY 2 builds the bridge between **RTL descriptions and synthesized sequential/structural hardware**.
